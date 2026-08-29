@@ -26,6 +26,26 @@
             //Compile-time error
             //int pages = 464;
             #endregion
+            #region code that divides 10 by 0 inside a try block
+            //int a = 10;
+            //int b = 0;
+            //try
+            //{
+            //    Console.WriteLine(a/b);
+
+            //}
+            //catch (DivideByZeroException ex) {
+            //    Console.WriteLine($"Error: Division by zero is not allowed.{ex.Message}");
+            //}
+            //catch(Exception ex)
+            //{
+            //    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+            //}
+            //finally
+            //{
+            //    Console.WriteLine("Done.");
+            //}
+            #endregion
         }
     }
 }
