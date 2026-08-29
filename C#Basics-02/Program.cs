@@ -51,6 +51,11 @@
             //double doublePages = pages;
             //Console.WriteLine(doublePages);
             #endregion
+            #region Explicit Conversion
+            //double price = 49.99;
+            //int intPrice = (int)price; 
+            //Console.WriteLine(intPrice);
+            #endregion
         }
     }
 }
