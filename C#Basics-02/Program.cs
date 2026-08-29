@@ -74,6 +74,11 @@
             //    Console.WriteLine("Invalid number");
             //}
             #endregion
+            #region ToString Conversion
+            //int pages = 464;
+            //string pagesText = pages.ToString();
+            //Console.WriteLine(pagesText.GetType());
+            #endregion
         }
     }
 }
