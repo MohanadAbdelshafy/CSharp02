@@ -104,6 +104,12 @@
             //Book? book = null;
             //Console.WriteLine(book?.Title);
             #endregion
+            #region Null-coalescing operator
+            //string? title = book?.Title;
+            //Console.WriteLine(title ?? "Untitled");
+            //title ??= "Untitled";
+            //Console.WriteLine(title);
+            #endregion
         }
     }
 }
