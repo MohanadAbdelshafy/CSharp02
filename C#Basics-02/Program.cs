@@ -87,6 +87,15 @@
             //Console.WriteLine(boxedCopies);
             //Console.WriteLine(newCopies);
             #endregion
+            #region null type
+            //int? year = null;
+
+            //Console.WriteLine(year != null);
+
+            //year = 2023;
+
+            //Console.WriteLine(year);
+            #endregion
         }
     }
 }
