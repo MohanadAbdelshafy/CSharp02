@@ -16,6 +16,12 @@
             //object obj= b1;
             //Console.WriteLine(obj);
             #endregion
+            #region Object Functions
+            //Console.WriteLine(book.ToString());
+            //Console.WriteLine(book.Equals(book));
+            //Console.WriteLine(book.GetHashCode());
+            //Console.WriteLine(book.GetType());
+            #endregion
         }
     }
 }
