@@ -110,6 +110,11 @@
             //title ??= "Untitled";
             //Console.WriteLine(title);
             #endregion
+            #region Null-forgiving operator
+            //string? name = "Ahmed";
+            //string confirmedName = name!;
+            //Console.WriteLine(confirmedName);
+            #endregion
         }
     }
 }
