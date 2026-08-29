@@ -100,6 +100,10 @@
             //string? reviewer = null;
             //Console.WriteLine(reviewer == null);
             #endregion
+            #region null operator
+            //Book? book = null;
+            //Console.WriteLine(book?.Title);
+            #endregion
         }
     }
 }
