@@ -96,6 +96,10 @@
 
             //Console.WriteLine(year);
             #endregion
+            #region Null string
+            //string? reviewer = null;
+            //Console.WriteLine(reviewer == null);
+            #endregion
         }
     }
 }
