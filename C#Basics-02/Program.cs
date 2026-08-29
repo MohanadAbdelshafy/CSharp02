@@ -56,6 +56,11 @@
             //int intPrice = (int)price; 
             //Console.WriteLine(intPrice);
             #endregion
+            #region Convert class.
+            //string pagesText = "464";
+            //int pages = Convert.ToInt32(pagesText);
+            //Console.WriteLine(pages);
+            #endregion
         }
     }
 }
