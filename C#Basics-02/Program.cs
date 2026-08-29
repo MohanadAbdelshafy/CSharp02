@@ -79,6 +79,14 @@
             //string pagesText = pages.ToString();
             //Console.WriteLine(pagesText.GetType());
             #endregion
+            #region Boxing and Unboxing
+            //int copies = 100;
+            //object boxedCopies = copies;
+            //int newCopies = (int)boxedCopies;
+
+            //Console.WriteLine(boxedCopies);
+            //Console.WriteLine(newCopies);
+            #endregion
         }
     }
 }
