@@ -22,6 +22,10 @@
             //Console.WriteLine(book.GetHashCode());
             //Console.WriteLine(book.GetType());
             #endregion
+            #region compile-time error, a runtime error, or a logical error?
+            //Compile-time error
+            //int pages = 464;
+            #endregion
         }
     }
 }
