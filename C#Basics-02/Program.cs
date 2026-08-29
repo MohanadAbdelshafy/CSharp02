@@ -46,6 +46,11 @@
             //    Console.WriteLine("Done.");
             //}
             #endregion
+            #region Implicit Conversion
+            //int pages = 300;
+            //double doublePages = pages;
+            //Console.WriteLine(doublePages);
+            #endregion
         }
     }
 }
